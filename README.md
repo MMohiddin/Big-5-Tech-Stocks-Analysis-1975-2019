@@ -81,6 +81,10 @@ To better understand the price trends and smooth out short-term fluctuations, a 
 
 ![30day average](https://github.com/user-attachments/assets/8d37f1f7-bc89-464c-9716-520900d22229)
 
+ **Note on Moving Averages**  
+> The 30-day moving average (`MA_30`) column contains `NA` values at the beginning of each company's dataset.  
+> This is expected because there isn’t enough historical data to calculate a 30-day average until the 30th data point.  
+> These `NA` values were excluded from relevant visualisations and summaries.
 
 ### 3. **Stock Price Growth Since First Record**
 
