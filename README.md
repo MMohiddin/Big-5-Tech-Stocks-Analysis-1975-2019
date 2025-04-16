@@ -5,8 +5,9 @@
 
 Welcome to the **Big 5 Tech Stocks Analysis** project. This analysis explores historical stock data for the five largest technology companies (Apple, Google, Microsoft, Facebook, and Amazon) from 1975 to 2019. In this project, we analyse stock price trends, moving averages, and growth patterns to understand the performance and growth trajectories of these tech giants over time.
 
----
+View the full [Data Dictionary](data_dictionary.md)
 
+---
 ## Project Overview
 
 In this analysis, the primary goal is to analyse the historical stock prices of the five major tech companies: **Apple (AAPL)**, **Google (GOOGL)**, **Microsoft (MSFT)**, **Facebook (FB)**, and **Amazon (AMZN)**. We aim to uncover key insights into:
@@ -25,7 +26,7 @@ The analysis includes the following key steps:
 
 ## Data Collection
 
-The data used in this project was obtained from [insert source, e.g., Yahoo Finance, Quandl, etc.]. The dataset contains daily stock prices for the five companies from **1975 to 2019**. It includes the following columns:
+The data used in this project was obtained from Kaggle. The dataset contains daily stock prices for the five companies from **1975 to 2019**. It includes the following columns:
 - **Date**: The date of the stock record.
 - **Open**: The opening price of the stock for that day.
 - **High**: The highest price reached by the stock that day.
