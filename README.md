@@ -5,6 +5,7 @@
 
 Welcome to the **Big 5 Tech Stocks Analysis** project. This analysis explores historical stock data for the five largest technology companies (Apple, Google, Microsoft, Facebook, and Amazon) from 1975 to 2019. In this project, we analyse stock price trends, moving averages, and growth patterns to understand the performance and growth trajectories of these tech giants over time.
 
+The data used in this project was obtained from Kaggle. The dataset contains daily stock prices for the five companies from **1975 to 2019**.
 View the full [Data Dictionary](data_dictionary.md)
 
 ---
@@ -23,17 +24,6 @@ The analysis includes the following key steps:
 - **Conclusions**: Drawing insights from the analysis.
 
 ---
-
-## Data Collection
-
-The data used in this project was obtained from Kaggle. The dataset contains daily stock prices for the five companies from **1975 to 2019**. It includes the following columns:
-- **Date**: The date of the stock record.
-- **Open**: The opening price of the stock for that day.
-- **High**: The highest price reached by the stock that day.
-- **Low**: The lowest price reached by the stock that day.
-- **Close**: The closing price of the stock for that day.
-- **Volume**: The number of shares traded that day.
-- **Name**: The ticker symbol for the stock (e.g., AAPL, GOOGL, etc.).
 
 ---
 
@@ -62,7 +52,7 @@ The dataset was first analysed to obtain a general overview of the stock prices 
 
 ### Stock Price Distribution
 
-We explored the distribution of stock prices by calculating summary statistics such as mean, median, and standard deviation for each company's closing prices.
+I explored the distribution of stock prices by calculating summary statistics such as mean, median, and standard deviation for each company's closing prices.
 
 ---
 
